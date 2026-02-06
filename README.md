@@ -1,93 +1,105 @@
 <h1 align="center">Hi 👋, I'm Niranjan Sai</h1>
-<h3 align="center">🔐 Cybersecurity Student | 💻 Full Stack Learner | 🚀 Future Ethical Hacker</h3>
+<h3 align="center">🔐 Cybersecurity & AI Student | Future Security Engineer</h3>
 
 <p align="center">
-🎓 B.Tech CSE (Cyber Security) Student <br>
-💻 Java | Python | Web Development <br>
-🔐 Passionate about Ethical Hacking & Pentesting <br>
-🚀 Goal: Become Cybersecurity Engineer
+  <img src="https://img.shields.io/badge/CSE%20Cybersecurity%20Student-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.0-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech CSE (Cyber Security) – IARE Hyderabad (2027)
-- 🔐 Interested in Ethical Hacking & Penetration Testing
-- 💻 Learning Full Stack Development + Cybersecurity
-- 🧪 Worked with Kali Linux, Wireshark, Nmap
-- 🏆 Solved 200+ problems on LeetCode
-- 📫 Email: pniranjansai30@gmail.com
+# 🧠 About Me
+🎓 B.Tech CSE (Cybersecurity) Student – Class of 2027  
+🔐 Passionate about Ethical Hacking & Penetration Testing  
+🤖 Exploring Artificial Intelligence & Security  
+💻 Java | Python | Web Development  
+🚀 Currently focusing on **Cybersecurity & Artificial Intelligence** and actively seeking internship opportunities  
 
 ---
 
-## 🚀 Projects
+# ⚡ Tech Stack
 
-### 🔐 Secure Image Steganography System
-- Hide secret messages inside images using LSB technique  
-- Added password-based encryption & decryption  
-- Tech: Python, Security Concepts  
-
-### 🏫 Campus Lost & Found Web App
-- Centralized system to report lost/found items  
-- Location-based search filtering  
-- Tech: HTML, CSS, JavaScript  
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Programming
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js"/>
+</p>
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript)
-![Node](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express"/>
+</p>
+
+### 🛢 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
 ### 🔐 Cybersecurity Tools
-![Kali](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-grey?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github"/>
+<img src="https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-grey?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+# 🚀 Projects
+### 🔐 Secure Image Steganography System
+- Hide secret messages inside images  
+- Password protected encryption  
+- Python + Security  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 💻 Coding Profiles
-- 🔥 LeetCode: https://leetcode.com/u/niranjansai_pendyala/
-- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/niranjan30
-- 💼 LinkedIn: https://www.linkedin.com/in/niranjan-pendyala-6a6131291/
----
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niranjan-pendyala-6a6131291/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:pniranjansai30@gmail.com)
+### 🏫 Campus Lost & Found Web App
+- Centralized lost & found platform  
+- Location based search  
+- HTML, CSS, JS  
 
 ---
 
-⭐ From Niranjan Sai | Cybersecurity Enthusiast
+# 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
-<!--
-**NiranjanSaiPendyala/NiranjanSaiPendyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+- 🔥 LeetCode: https://leetcode.com/YOURID  
+- 🟢 GeeksforGeeks: https://auth.geeksforgeeks.org/user/YOURID  
+- 💼 LinkedIn: https://linkedin.com/in/YOURID  
+
+---
+
+# 🤝 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/YOURID"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:pniranjansai30@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+⚡ "Eat → Sleep → Hack → Repeat" ⚡
+</p>
