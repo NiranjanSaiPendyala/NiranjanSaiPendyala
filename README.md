@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niranjan Sai</h1>
-<h3 align="center">🔐 Cybersecurity & AI Student | Future Security Engineer</h3>
+<h3 align="center">🔐 Cybersecurity Student</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Cybersecurity%20Student-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-8.0-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge"/>
 </p>
 
@@ -16,7 +15,7 @@
 # 🧠 About Me
 🎓 B.Tech CSE (Cybersecurity) Student – Class of 2027  
 🔐 Passionate about Ethical Hacking & Penetration Testing  
-🤖 Exploring Artificial Intelligence & Security  
+🤖 Exploring Artificial Intelligence   
 💻 Java | Python | Web Development  
 🚀 Currently focusing on **Cybersecurity & Artificial Intelligence** and actively seeking internship opportunities  
 
@@ -73,28 +72,27 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NiranjanSaiPendyala&theme=matrix&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/NiranjanSaiPendyala/NiranjanSaiPendyala/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 # 💻 Coding Profiles
-- 🔥 LeetCode: https://leetcode.com/YOURID  
-- 🟢 GeeksforGeeks: https://auth.geeksforgeeks.org/user/YOURID  
-- 💼 LinkedIn: https://linkedin.com/in/YOURID  
+- 🔥 LeetCode: https://leetcode.com/u/niranjansai_pendyala/
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/niranjan30
 
 ---
 
 # 🤝 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/YOURID"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href=https://www.linkedin.com/in/niranjan-pendyala-6a6131291/><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:pniranjansai30@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
