@@ -39,7 +39,7 @@ Currently focused on **Cybersecurity and AI** and actively looking for internshi
 
 ### 🤖 CS, AI & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
 <img src="https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux"/>
 <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nmap-grey?style=for-the-badge"/>
