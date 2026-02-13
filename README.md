@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Progress;AI+%26+Security+Learner;Future+Security+Engineer;Open+to+Internships&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;AI+%26+Security+Learner;Open+to+Internships&center=true&width=500&height=45">
 </p>
 
 <h3 align="center">Cybersecurity & AI Security Enthusiast</h3>
@@ -29,7 +29,6 @@ Currently focused on **Cybersecurity + Artificial Intelligence** and actively lo
 - 💻 Skilled in Java, Python & Full Stack Development  
 - 🧠 Solved 200+ DSA problems on LeetCode & GFG  
 - 🧪 Hands-on with Kali Linux, Wireshark & Nmap  
-- ⚡ Future Cybersecurity Engineer in progress  
 
 ---
 
@@ -89,15 +88,6 @@ Currently focused on **Cybersecurity + Artificial Intelligence** and actively lo
 <a href="https://www.geeksforgeeks.org/profile/niranjan30">
   <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NiranjanSaiPendyala&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanSaiPendyala&theme=tokyonight" />
 </p>
 
 ---
