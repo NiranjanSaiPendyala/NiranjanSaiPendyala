@@ -1,11 +1,18 @@
-<h1 align="center">Hi there, I'm Niranjan Sai 👋</h1>
+<h1 align="center">
+  Hi there, I'm Niranjan Sai 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h3 align="center">Cybersecurity Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Progress;AI+%26+Security+Learner;Future+Security+Engineer;Open+to+Internships&center=true&width=500&height=45">
+</p>
+
+<h3 align="center">Cybersecurity & AI Security Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Cybersecurity%20Student-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/8.0%20CGPA-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity%20Learner-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Security%20Learner-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 </p>
 
@@ -13,31 +20,32 @@
 
 # 🚀 About Me
 
-I am a **Computer Science and Engineering student (Class of 2027)** specializing in **Cybersecurity**.  
-I am passionate about ethical hacking, penetration testing, and building secure intelligent systems.  
-Currently focused on **Cybersecurity and AI** and actively looking for internship opportunities.
+I am a **B.Tech Computer Science Engineering student (Cybersecurity)** graduating in **2027**.  
+I am passionate about **ethical hacking, penetration testing, and building secure AI systems**.  
+Currently focused on **Cybersecurity + Artificial Intelligence** and actively looking for internship opportunities.
 
-- 🔐 Exploring Ethical Hacking & Penetration Testing  
-- 🤖 Learning Artificial Intelligence & Security  
-- 💻 Skilled in Java, Python & Web Development  
-- 🧠 Solved 200+ DSA problems on LeetCode/GFG  
-- ⚡ Fun fact: Future Cybersecurity Engineer in progress 💀  
+- 🔐 Learning Ethical Hacking & Penetration Testing  
+- 🤖 Exploring AI + Security Integration  
+- 💻 Skilled in Java, Python & Full Stack Development  
+- 🧠 Solved 200+ DSA problems on LeetCode & GFG  
+- 🧪 Hands-on with Kali Linux, Wireshark & Nmap  
+- ⚡ Future Cybersecurity Engineer in progress  
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages & Frontend
+### 💻 Programming & Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react" />
 </p>
 
 ### ⚙ Backend & Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
 </p>
 
-### 🤖 CS, AI & Tools
+### 🔐 Cybersecurity & Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,git,github" />
 <img src="https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux"/>
@@ -50,15 +58,24 @@ Currently focused on **Cybersecurity and AI** and actively looking for internshi
 # 🚀 Projects
 
 ### 🔐 Secure Image Steganography System
-- Developed a secure image steganography application to hide confidential messages inside images using LSB technique  
-- Implemented password-protected encryption & decryption for enhanced data security  
-- Tech Used: Python, Security Concepts  
+- Developed secure image steganography app to hide confidential messages using LSB technique  
+- Implemented password-protected encryption & decryption  
+- Tech: Python, Security Concepts  
 
 ### 🏫 Centralized Campus Lost & Found Platform
-- Built a campus-based lost & found management web app for students  
-- Implemented location-based filtering and search functionality  
-- Enabled efficient reporting and recovery of lost items  
-- Tech Used: HTML, CSS, JavaScript  
+- Built campus lost & found web platform  
+- Implemented location-based filtering and search  
+- Enabled efficient reporting & recovery  
+- Tech: HTML, CSS, JavaScript  
+
+---
+
+# 🎓 Certifications
+
+- 🛡 AI Azure Virtual Internship – EduSkills (AICTE)  
+- 🔐 Cybersecurity Virtual Internship – Palo Alto Networks  
+- 💻 Tata Cyber Security Analyst Job Simulation – Forage  
+- 🐞 Ethical Hacking Vulnerability Analysis – LinkedIn Learning  
 
 ---
 
@@ -76,15 +93,24 @@ Currently focused on **Cybersecurity and AI** and actively looking for internshi
 
 ---
 
-# 📬 Let's Connect!
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NiranjanSaiPendyala&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanSaiPendyala&theme=tokyonight" />
+</p>
+
+---
+
+# 📬 Let's Connect
 
 <p align="center">
 <a href="mailto:pniranjansai30@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
 <a href="https://www.linkedin.com/in/niranjan-pendyala-6a6131291/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 </p>
 
@@ -95,5 +121,5 @@ Currently focused on **Cybersecurity and AI** and actively looking for internshi
 ---
 
 <p align="center">
-⭐ From Niranjan Sai
+⭐ From Niranjan Sai — Future Cybersecurity Engineer
 </p>
