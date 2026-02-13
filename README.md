@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;AI+%26+Security+Learner;Open+to+Internships&center=true&width=500&height=45">
 </p>
 
-<h3 align="center">Cybersecurity & AI Security Enthusiast</h3>
+<h3 align="center">Cybersecurity & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Cybersecurity%20Student-blue?style=for-the-badge"/>
